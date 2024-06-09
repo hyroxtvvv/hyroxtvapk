@@ -3,4 +3,4 @@
 
 
 channel-name | | |
-Paste here the URL you copied from the live youtube channel.
+https://www.youtube.com/watch?v=hfx8H7YrmTw
