@@ -35,7 +35,7 @@ jobs:
         run: |
           git pull
           git config --global user.email "tvhyrox@gmail.com"
-          git config --global user.name "hyroxtvvv"
+          git config --global user.name "HyroxTV"
       
       
       - name: Main
