@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Gülşah Film | | |
+Gulşah Film | | |
 https://www.youtube.com/@GulsahFilmOfficial
