@@ -34,8 +34,8 @@ jobs:
       - name: config
         run: |
           git pull
-          git config --global user.email "tvhyrox@gmail.com"
-          git config --global user.name "hyroxtvvv"
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
       
       
       - name: Main
