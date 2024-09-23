@@ -1,3 +1,13 @@
 {
-    "apiUrl": "https://hyrox.serv00.net/apppanel/api"
+    "apiUrl": "https://hyrox.serv00.net/apppanel/api",
+    "updateConfig": {
+        "updateVersiyon": "1.4.1",
+        "updateTitle": "Şimdi Güncelleme Zamanı!",
+        "updateYenilik": "içerikler arası senkranizasyon yapıldı, ayrıca player optionsa 0.75 ve 1.25 hız alternatifleri eklendi,.....",
+        "updateLink": "https://github.com/asdsplus/pro/raw/main/GolgeTV-PLUS-1.4.1.apk",
+        "websiteLink": "https://emegesaygiapk.blogspot.com",
+        "telegramLink": "https://t.me/+V5eM0GZgGmlLsw-k"
+       
+    },
+     "appSignature": "9275CEE1FD47B543412DE852C118A0663E40AA83EG12"
 }
