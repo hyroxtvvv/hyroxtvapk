@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://hyrox.serv00.net/apppanel/api",
     "updateConfig": {
-        "updateVersiyon": "1.0.0",
+        "updateVersiyon": "1.0.1",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
         "updateYenilik": "Bu bir testtir",
         "websiteLink": "https://hyroxtv.blogspot.com",
