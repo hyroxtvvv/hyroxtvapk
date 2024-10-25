@@ -1,5 +1,5 @@
 {
-    "apiUrl": "https://swonixss.serv00.net/apppanel/api",
+    "apiUrl": "https://swonixss.serv00.net/apppanel/api/",
     "updateConfig": {
         "updateVersiyon": "1.0.1",
         "updateTitle": "Yeni Güncelleme Mevcut!",
