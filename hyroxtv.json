@@ -1,9 +1,9 @@
 {
     "apiUrl": "https://swonixss.serv00.net/apppanel/api",
     "updateConfig": {
-        "updateVersiyon": "1.0.2",
+        "updateVersiyon": "1.0.3",
         "updateTitle": "Yeni Güncelleme Mevcut!",
-        "updateYenilik": "• Güncellemeyi sadece Telegramdan indirebilirsiniz.\n\n• Playerdeki butonların kaybolduktan sonra gözükmeme sorunu düzeltildi.\n\n• Ekran zaman aşımı sorunu düzeltildi.",
+        "updateYenilik": "• Güncellemeyi sadece Telegramdan indirebilirsiniz.\n\n• Mobil cihazlar için farklı bir player eklendi böylelikle artık en boy oranını değiştirebilirsiniz.\n\n• Android TV/ Box ve Mobil cihazlar için player farklı hangi tür cihaz kullanıyorsanız mutlaka onun için uygun olanı seçin.",
         "websiteLink": "https://t.me/+_u3el1n4cVg1Nzc0",
         "telegramLink": "https://t.me/+_u3el1n4cVg1Nzc0"
     }
