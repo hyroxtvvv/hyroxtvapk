@@ -1,5 +1,5 @@
 {
-    "apiUrl": "https://bilmemmi.store/api",
+    "apiUrl": "https://bilmemmi.store/apppanel/api",
     "updateConfig": {
         "updateVersiyon": "1.0.0",
         "updateTitle": "Yeni Güncelleme Mevcut!",
