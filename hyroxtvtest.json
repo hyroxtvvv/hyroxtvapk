@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://bilmemmi.store/apppanel/api",
     "updateConfig": {
-        "updateVersiyon": "1.0.0",
+        "updateVersiyon": "1.0.4",
         "updateTitle": "Yeni Güncelleme Mevcut!",
         "updateYenilik": "Uygulama şuan bakımdadır",
         "websiteLink": "https://hyroxtv.blogspot.com",
