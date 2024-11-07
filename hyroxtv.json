@@ -1,9 +1,9 @@
 {
     "apiUrl": "https://swonixss.serv00.net/apppanel/api",
     "updateConfig": {
-        "updateVersiyon": "1.0.5",
+        "updateVersiyon": "1.0.6",
         "updateTitle": "Yeni Güncelleme Mevcut!",
-        "updateYenilik": "• Güncellemeyi sadece Telegramdan indirebilirsiniz.\n\n• Sunucu Altyapısı değişti.\n\n• Yeni Kanallar eklendi eklendi.\n\n• Hata ve Perfonmas iyileştirmeleri yapıldı. ",
+        "updateYenilik": "• Güncellemeyi sadece Telegramdan indirebilirsiniz.\n\n• Artık güncellemeler uygulamanın içinden kurulabilecek.\n\n• Reklam engelleyiciler için önlem alındı.\n\n• Hata ve Perfonmas iyileştirmeleri yapıldı. ",
         "websiteLink": "https://t.me/+_u3el1n4cVg1Nzc0",
         "telegramLink": "https://t.me/+_u3el1n4cVg1Nzc0"
     }
