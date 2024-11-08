@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://swonixss.serv00.net/apppanel/ap",
     "updateConfig": {
-        "updateVersiyon": "1.0.6",
+        "updateVersiyon": "1.0.7",
         "updateTitle": "Yeni Güncelleme Mevcut!",
         "updateYenilik": "• Güncellemeyi indirmekte sorun yaşıyorsanız Telegram grubumuzdan indirin.\n\n• Erişim engeli sorunu düzeltildi. ",
         "updateLink": "https://bilmemmi.store/HYROX-TV-Pro-1.0.7-fix.apk",
