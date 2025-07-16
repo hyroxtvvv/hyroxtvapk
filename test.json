@@ -1,0 +1,14 @@
+{
+  "apiUrl": "https://api.sizin-gercek-adresiniz.com/ankapanel/build/appMainGetData.php",
+  "updateConfig": {
+    "updateVersiyon": "1.1.2",
+    "updateTitle": "Yeni Sürüm Mevcut!",
+    "updateYenilik": "- Hata düzeltmeleri yapıldı.\n- Performans iyileştirildi.",
+    "updateLink": "https://cdn.usddsu.xyz/server/app-release.apk",
+    "is_mandatory": false
+  },
+  "app_settings": {
+    "maintenance_mode": false,
+    "maintenance_message": "Uygulamamız şu anda kısa süreli bir bakım çalışmasındadır. Lütfen daha sonra tekrar deneyin."
+  }
+}
